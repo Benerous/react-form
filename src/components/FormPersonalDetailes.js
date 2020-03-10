@@ -57,7 +57,6 @@ export default class FormPersonlaDetailes extends Component {
                         onClick={this.back}
                     />
                     <br />
-
                 </React.Fragment>
             </MuiThemeProvider>
         )

@@ -49,7 +49,6 @@ export default class Confirm extends Component {
                         secondaryText= { bio }
                         />
                     </List>
-                    <br />
                     <RaisedButton 
                         label="Confirm & Continue"
                         primary={true}
